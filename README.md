@@ -4,7 +4,7 @@ A modern developer portfolio showcasing my work in **Data Analytics**, **Backend
 
 ## 🌐 Live Demo
 
-Coming Soon
+🔗 portfolio-one-green-60.vercel.app
 
 ## 👨‍💻 About Me
 
@@ -146,7 +146,7 @@ Exploring ETL pipelines, data warehousing, PostgreSQL, and modern data systems.
 
 ### LinkedIn
 
-Add your LinkedIn profile URL
+https://www.linkedin.com/in/tanuj-sanwal-2706421a6/
 
 ### GitHub
 
@@ -154,7 +154,7 @@ https://github.com/sanwaltanuj7
 
 ### Email
 
-Add your email address
+sanwaltanuj7@gmail.com
 
 ---
 
