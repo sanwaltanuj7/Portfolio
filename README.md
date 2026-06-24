@@ -4,7 +4,7 @@ A modern developer portfolio showcasing my work in **Data Analytics**, **Backend
 
 ## 🌐 Live Demo
 
-🔗 [Visit My Portfolio](https://o-one-green-60.vercel.app)
+🔗 [Visit My Portfolio](portfolio-one-green-60.vercel.app)
 
 ## 👨‍💻 About Me
 
